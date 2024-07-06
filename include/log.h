@@ -18,9 +18,9 @@
 #include <map>
 #include <cstdarg>
 
-#include "util.h"
-#include "mutex.h"
-#include "singleton.h"
+#include "include/util.h"
+#include "include/mutex.h"
+#include "include/singleton.h"
 
 /// 获取root日志器
 #define SYLAR_LOG_ROOT() sylar::LoggerMgr::GetInstance() -> getRoot()

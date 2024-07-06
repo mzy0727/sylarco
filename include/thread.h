@@ -1,9 +1,15 @@
+/**
+ * @file thread.h
+ * @author beanljun
+ * @brief 线程封装
+ * @date 2024-04-24
+ */
 
 #ifndef __SYLAR_THREAD_H__
 #define __SYLAR_THREAD_H__
 
 #include <string>
-#include "mutex.h"
+#include "include/mutex.h"
 
 namespace sylar {
 

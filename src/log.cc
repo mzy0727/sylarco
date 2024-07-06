@@ -6,9 +6,9 @@
 */
 
 #include <utility>
-#include "log.h"
-#include "config.h"
-#include "env.h"
+#include "include/log.h"
+#include "include/config.h"
+#include "include/env.h"
 
 namespace sylar {
 

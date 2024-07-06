@@ -5,9 +5,9 @@
  * @date 2024-04-24
  */
 
-#include "thread.h"
-#include "log.h"
-#include "util.h"
+#include "include/thread.h"
+#include "include/log.h"
+#include "include/util.h"
 
 namespace sylar {
 
